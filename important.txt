@@ -1,4 +1,4 @@
 This is a text adventure game.
-Tapg stands for text adventure python game.
+Tapg stands for text adventure roleplaying game.
 This code will only work with Python 3.
 Thank you for reading this.
