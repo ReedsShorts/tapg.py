@@ -5,3 +5,10 @@ def game():
     c = input("Would you like to hear the controls? (Y/N)")
     if c = "Y":
         print("Type u to move up, d to move down, l to move left ,and r to move right. /n Type f to fight, m to use magic, h to heal, and s to save  
+    area = 0
+    while 1:
+        m = input()
+        if m = "u":
+            area = area + 1
+        elif m = "l":
+            area = area + 2
