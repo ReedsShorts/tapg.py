@@ -12,3 +12,5 @@ def game():
             area = area + 1
         elif m = "l":
             area = area + 2
+        elif m = "d":
+            area = area + 3
